@@ -1,14 +1,19 @@
 {
-    "name": "geekpuvn/jwt-plugin",
+    "name": "geekupvn/jwt-plugin",
     "authors": [
         {
             "name": "tunguyen",
             "email": "duytu.nguyen@outlook.com"
         }
     ],
+    // "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Geekupvn\\JWTPlugin\\": "src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {
         "firebase/php-jwt": "^4.0"
-    },
-    "prefer-stable": true
+    }
 }

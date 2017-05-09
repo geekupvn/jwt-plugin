@@ -1,5 +1,5 @@
 <?php
-namespace GUCMS\Plugin;
+namespace Geekupvn\JWTPlugin;
 
 use Firebase\JWT\JWT as FirebaseJWT;
 
