@@ -6,12 +6,6 @@
             "email": "duytu.nguyen@outlook.com"
         }
     ],
-    // "minimum-stability": "stable",
-    "autoload": {
-        "psr-4": {
-            "Geekupvn\\JWTPlugin\\": "src"
-        }
-    },
     "minimum-stability": "dev",
     "require": {
         "firebase/php-jwt": "^4.0"
