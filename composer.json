@@ -1,0 +1,12 @@
+{
+    "name": "gucms/jwt-plugin",
+    "authors": [
+        {
+            "name": "tunguyen",
+            "email": "duytu.nguyen@outlook.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^4.0"
+    }
+}
