@@ -1,5 +1,9 @@
 {
     "name": "geekupvn/jwt-plugin",
+    "description": "Wrap JWT, allows config domain, key and lifetime of jwt for easy to use.",
+    "require": {
+        "php": "^5.3.3"
+    },
     "authors": [
         {
             "name": "tunguyen",
